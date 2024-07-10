@@ -97,6 +97,7 @@ flutter:
       fonts:
         - asset: fonts/Roboto/Roboto-Regular.ttf
 
+    
 flutter_intl:
   enabled: true
 
